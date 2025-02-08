@@ -1,4 +1,4 @@
-# PCS3111
+# Prática de Orientado a Objetos em C++
 Exercícios programa pedidos na matéria de Programação Orientada a Objetos em C++ (PCS3111)
 
 EP1 - Programa inspirado no Matlab com calculo de sinais
